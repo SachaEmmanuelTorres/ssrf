@@ -1,5 +1,47 @@
 [
   {
+    "id": "yMiX94TJ6Ek",
+    "title": "EP 215 | V8 Browser Exploit 101 Ft. Valekoz & W00dy",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://github.com/cbracken/gn",
+      "https://docs.kernel.org/core-api/protection-keys.html",
+      "https://github.com/mistymntncop/CVE-2025-5419/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=yMiX94TJ6Ek",
+    "upload_date": "20260513"
+  },
+  {
+    "id": "upd3cDhLBmA",
+    "title": "LaluLog 01 - Mon métier a changé en 3 mois. On en parle ?",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://offenskill.com/",
+      "https://community.offenskill.com/",
+      "https://thinkloveshare.com/offenskill/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=upd3cDhLBmA",
+    "upload_date": "20260427"
+  },
+  {
+    "id": "_KCU7i5pXv8",
+    "title": "EP 214 | Claude ➡️ Vos Prompts ➡️ Live ?? Ft. Y'all",
+    "links": [
+      "https://community.offenskill.com/",
+      "https://claude.ai/",
+      "https://openrouter.ai/",
+      "https://dev.twitch.tv/docs/chat/",
+      "https://caido.io/",
+      "https://overthewire.org/wargames/",
+      "https://github.com/anomalyco/opencode",
+      "https://github.com/kasmtech/KasmVNC",
+      "https://howtorotate.com/",
+      "https://www.revshells.com/"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=_KCU7i5pXv8",
+    "upload_date": "20260330"
+  },
+  {
     "id": "svvrvs2ANmU",
     "title": "EP 213 | PostScript, Apache FOP, N/0-dayzzZ Ft. @Icare1337 @truffzor @sigabrt9",
     "links": [
